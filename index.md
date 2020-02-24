@@ -5,8 +5,15 @@
 I am a senior a [Catawba College](https://catawba.edu/) studying accounting with minors in business administration and economics.
 
 
-# Header 1
-## Header 2
+## Hometown
+
+I'm from Winston Salem, NC
+
+## Favorites
+
+My favorite food is sushi
+My favorite drink is iced coffee
+
 ### Header 3
 
 - Bulleted
