@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Anna Trent's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/amtrent16/amtrent16.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
